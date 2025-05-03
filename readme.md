@@ -1,8 +1,8 @@
-<div style="text-align: center;">
+<p align="center">
 
 ![logo](http://xdw.su/icon.png "Title")
 
-</div>
+</p>
 
 :us:
 <h1>Introduction</h1>
