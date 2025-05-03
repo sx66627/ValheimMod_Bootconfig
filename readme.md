@@ -4,18 +4,19 @@
 
 </p>
 
-:us:
-<h1>Introduction</h1>
+# Valheim BootConfig Mod
+
+## :us: English
+
+### Introduction
 I decided to publish this source because it was unfairly [removed](https://www.nexusmods.com/valheim/mods/3046) from the Nexusmods.com portal.
 With the reason that I used someone else's asset. But this is not true, the code was completely written by me. And there are no similar mods on this portal.
 
-Description
----
-
+### Description
 Creates or modifies the valheim_Data/boot.config file to improve performance.
 
 What it writes to the file:
-```
+```ini
 gfx-enable-gfx-jobs=1
 gfx-enable-native-gfx-jobs=1
 scripting-runtime-version=latest
@@ -28,8 +29,7 @@ gc-max-time-slice=28 (Determines the number of threads of your processor and set
 **Values ​​that were already in the file are not deleted!** If there were already such records in the file, then their value is replaced.
 
 
-Installation
----
+### Installation
 - Install [BepInEx](https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/) (if you have installed BepInEx for other mods like Valheim Plus you can skip this step).
 
 - Download the mod (ValheimMod_Bootconfig.zip) and unpack its contents into .../Valheim/BepInEx/plugins
@@ -37,25 +37,22 @@ Installation
 - Done
 
 
-How it works
----
+### How it works
 When you first load, the data will be written.
 After you restart the game, it will be applied.
 
 ---
-:ru:
+## :ru: Русский
 
-<h1>Введение</h1>
+### Введение
 Я решил опубликовать этот исходник, потому что он был несправедливо [удален](https://www.nexusmods.com/valheim/mods/3046) с портала Nexusmods.com.
 По той причине, что я использовал чужой asset. Но это неправда, код полностью написан мной. И на этом портале нет похожих модов.
 
-Описание
----
-
+### Описание
 Создает или изменяет файл valheim_Data/boot.config для повышения производительности.
 
 Что он пишет в файл:
-```
+```ini
 gfx-enable-gfx-jobs=1
 gfx-enable-native-gfx-jobs=1
 scripting-runtime-version=latest
@@ -67,17 +64,13 @@ gc-max-time-slice=28 (Определяет количество потоков �
 
 **Значения, которые уже были в файле, не удаляются!** Если в файле уже были такие записи, то их значение заменяется.
 
-Установка
----
+### Установка
 - Установите [BepInEx](https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/) (если вы установили BepInEx для других модов, таких как Valheim Plus, вы можете пропустить этот шаг).
 
 - Загрузите мод (ValheimMod_Bootconfig.zip) и распакуйте его содержимое в .../Valheim/BepInEx/plugins
 
 - Готово
 
-Как это работает
----
+###Как это работает
 При первой загрузке данные будут записаны.
 После перезапуска игры они будут применены.
-
----
