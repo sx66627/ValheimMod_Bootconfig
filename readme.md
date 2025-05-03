@@ -1,8 +1,8 @@
-<p align="center">
+<div style="text-align: center;">
 
 ![logo](http://xdw.su/icon.png "Title")
 
-</p>
+</div>
 
 # Valheim BootConfig Mod
 
