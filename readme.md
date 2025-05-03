@@ -12,6 +12,8 @@
 I decided to publish this source because it was unfairly [removed](https://www.nexusmods.com/valheim/mods/3046) from the Nexusmods.com portal.
 With the reason that I used someone else's asset. But this is not true, the code was completely written by me. And there are no similar mods on this portal.
 
+View all my mods: https://next.nexusmods.com/profile/sx66627/mods
+
 ### Description
 Creates or modifies the valheim_Data/boot.config file to improve performance.
 
@@ -47,6 +49,8 @@ After you restart the game, it will be applied.
 ### Введение
 Я решил опубликовать этот исходник, потому что он был несправедливо [удален](https://www.nexusmods.com/valheim/mods/3046) с портала Nexusmods.com.
 По той причине, что я использовал чужой asset. Но это неправда, код полностью написан мной. И на этом портале нет похожих модов.
+
+Посмотреть все мои моды: https://next.nexusmods.com/profile/sx66627/mods
 
 ### Описание
 Создает или изменяет файл valheim_Data/boot.config для повышения производительности.
